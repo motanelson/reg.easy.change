@@ -1,3 +1,1 @@
-print drive to haskell prints
-
-ghc main.hs prints.c -o programa
+regestry industrial home made change value example
